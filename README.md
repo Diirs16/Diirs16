@@ -25,3 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=Diirs16&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📄 Documentación
+- [Requerimientos Pet Connect para Android Studio](REQUERIMIENTOS_PETCONNECT_ANDROID.md)
