@@ -25,3 +25,17 @@
 [![](https://visitcount.itsvg.in/api?id=Diirs16&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📄 Documentación
+- [Requerimientos Pet Connect para Android Studio](REQUERIMIENTOS_PETCONNECT_ANDROID.md)
+- [Guía de solución de errores Android Studio](android-petconnect/TROUBLESHOOTING_ANDROID.md)
+
+## 📱 Interfaz Android Studio (Registro)
+Se agregó una base de proyecto Android en `android-petconnect/` con una pantalla de **Registro** en Jetpack Compose.
+
+**Paleta aplicada (solicitada):**
+- Azul principal: `#1565C0`
+- Naranja principal: `#F57C00`
+
+Archivo principal de la interfaz:
+- `android-petconnect/app/src/main/java/com/petconnect/app/ui/screens/RegisterScreen.kt`
